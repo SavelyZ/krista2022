@@ -1,0 +1,6 @@
+projectKey=org.example:s.zhulanov
+serverUrl=https://sonar-stud.krista.ru
+serverVersion=7.1.0.11001
+dashboardUrl=https://sonar-stud.krista.ru/dashboard/index/org.example:s.zhulanov
+ceTaskId=AYHx1Y_xebOdtjrbi6IJ
+ceTaskUrl=https://sonar-stud.krista.ru/api/ce/task?id=AYHx1Y_xebOdtjrbi6IJ
